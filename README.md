@@ -1,7 +1,8 @@
 ### Olá! Sou o Guilherme Silva 👋
 
 - Tecnico de serviços ao cliente VIVO. 
-- 📚 Dev Full Stack Jr.
+- 📚 Dev em formação.
+- Formado em Análise e Desenvolvimento de Sistemas (ENIAC)
 ##
 <div>
   <a href="https://github.com/Guisds">
