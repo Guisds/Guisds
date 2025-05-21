@@ -1,6 +1,6 @@
 ### Olá! Sou o Guilherme Silva 👋
 
-- 👨🏽‍💻 Monitor de Rota na Totale Tecnologia. 
+- Tecnico de serviços ao cliente VIVO. 
 - 📚 Dev Full Stack Jr.
 ##
 <div>
